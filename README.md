@@ -1,7 +1,7 @@
-# Content Addressable Memory - hopfield network
+# Content Addressable Memory - Hopfield Network
 
 
-# Implementation of Content Addressable Memory using Python 
+### Implementation of Content Addressable Memory using Python 
 #
 #
 ###  Content Addressable Memory is a memory that can be accessed by content and not by the address. A CAM recalls data based on the input that partially resembles the data itself. 
